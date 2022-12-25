@@ -1,0 +1,18 @@
+A,Agilent Technologies,155.36,1000
+AAL,American Airlines Group,21.6322,200
+AAPL,Apple,150.266,1000
+ABB,Abbott Laboratories,36.4195,200
+ABBV,AbbVie,120.484,1000
+ABC,AmerisourceBergen,119.22,1000
+ABMD,Abiomed,336.588,500
+ACN,Accenture,320.134,1000
+ADBE,Adobe,625.977,500
+ADI,Analog Devices,172.178,200
+ADM,ADM,62.4631,500
+ADP,Automatic Data Processing,210.959,500
+ADSK,Autodesk,305.875,1000
+AEE,Ameren Corp,84.8305,1000
+AEP,American Electric Power,88.4238,1000
+AES,AES Corp,26.6441,1000
+AFL,Aflac,55.2455,500
+AIG,American International Group,48.5353,1000
